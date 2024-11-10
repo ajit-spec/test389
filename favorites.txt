@@ -4,3 +4,9 @@ Ice cream
 Sushi
 Tacos
 Chocolate
+
+# Favorite Movies
+The Dark Knight
+Inception
+Pulp Fiction
+The Matrix
